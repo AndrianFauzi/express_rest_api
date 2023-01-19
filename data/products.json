@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Nike Air Force 1 '07",
+    "description": "The radiance lives on in the Nike Air Force 1 '07, the b-ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
+    "price": 1379000,
+    "imgUrl": "https://i.imgur.com/U7ElPT1.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Air Max 97 SE",
+    "description": "Legend has it the original Air Max 97 was inspired by Tokyo's lightning-fast public transport system. Nicknamed the silver bullet, they were truly the shoes of the future thanks to innovative full-length Air cushioning and a sleek design. Write the next chapter with this modern version.",
+    "price": 2849000,
+    "imgUrl": "https://i.imgur.com/Jda6JxW.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Air Zoom Infinity Tour NEXT% NRG",
+    "description": "We listened to the feedback you had on the Infinity Tour, refined it and brought it to life on the Nike Air Zoom Infinity Tour NEXT%. We increased the overall volume to give your foot more room. We added 2 large Zoom Air units for even more energy transfer through your swing",
+    "price": 2849000,
+    "imgUrl": "https://i.imgur.com/MUpQ7x0.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Air Max Dawn",
+    "description": "Rooted to sporty athletics DNA, the Nike Air Max Dawn is thoughtfully crafted from at least 20% recycled material by weight. Soft suede and airy textile blend vintage running vibes with modern design.",
+    "price": 1869000,
+    "imgUrl": "https://i.imgur.com/fNurZhn.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Air Max Impact 3",
+    "description": "Influence the game at both ends of the court in the Nike Air Max Impact 3.Ideal for players who create separation with their vertical, it features pressure-tested Max Air cushioning to help absorb impact.Plus, rubber wraps up the sides for added durability and stability.",
+    "price": 1279000,
+    "imgUrl": "https://i.imgur.com/cVGQX0P.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "NikeCourt Vapor Lite",
+    "description": "Like a racing car, the NikeCourt Vapor Lite keeps most of its features under the bonnet.Its unique cushioning system is built to help you get to the ball as fast as you can.",
+    "price": 1099000,
+    "imgUrl": "https://i.imgur.com/rA1mfzv.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike SuperRep Go 3 Next Nature Flyknit",
+    "description": "The new Nike SuperRep Go 3 Flyknit Shoe is a radical design story rooted in sustainability and innovation. The zoned Flyknit construction wraps your foot in 360 degrees of comfort and support.",
+    "price": 1499000,
+    "imgUrl": "https://i.imgur.com/wAD7hBJ.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Air Max 97",
+    "description": "With an iconic design inspired by Japanese bullet trains and water droplets, push your style full speed ahead in the Air Max 97. Full-length Nike Air cushioning lets you ride in first-class comfort.",
+    "price": 2669000,
+    "imgUrl": "https://i.imgur.com/m68mui2.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Blazer Low '77 Jumbo",
+    "description": "They say, Don't fix what works. We say, Perfect it. The hoops-icon-turned-wardrobe-superstar gets rethought with an oversized Swoosh, thick stitching and jumbo laces.",
+    "price": 1459000,
+    "imgUrl": "https://i.imgur.com/QqoCECF.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Air Jordan 1 Mid SE",
+    "description": "Stand out with timeless hoops style. Premium leather gets polished, shined and textured to deliver a fresh take on the shoe that started it all. Air cushioning and a classic design keep everything you love best from the original.",
+    "price": 2059000,
+    "imgUrl": "https://i.imgur.com/ioJx6vj.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike React Pegasus Trail 4",
+    "description": "Running is your daily ritual, taking you from road to trail as you seek out new adventures and goals. Let the Nike React Pegasus Trail 4 take you there and back again with its supportive and springy feel.",
+    "price": 1999000,
+    "imgUrl": "https://i.imgur.com/QWZT9zX.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Blazer Low '77 By You",
+    "description": "Praised for its classic simplicity and comfort, the original hoops look is now yours to customise. From a variety of materials, including a floral graphic on canvas, to fun-loving summertime colours, it lets you leave your mark. ",
+    "price": 1819000,
+    "imgUrl": "https://i.imgur.com/iXApDSL.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Dunk Low By You",
+    "description": "Take your game anywhere with the Nike Dunk Low By You. Created for the hardwood but taken to the streets, the '80s b-ball icon returns with a new design thought up by you.",
+    "price": 1869000,
+    "imgUrl": "https://i.imgur.com/8ttmEgI.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Air Jordan 3 Retro",
+    "description": "The legendary shoe gets a new heritage-inspired look. A twist on the original 'Black Cement' colourway, the Air Jordan 3 Retro brings in one of the brand's most iconic colours.",
+    "price": 2889000,
+    "imgUrl": "https://i.imgur.com/KFH3iZL.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Jordan Series Mid",
+    "description": "Classic meets modern in this fresh take on a Jordan Brand essential. Durable leather and suede are bolstered by lightweight synthetics for extra support. The iconic midtop silhouette is more breathable than ever with a perforated sockliner. Plus, inspirational messages nodding to MJ's origin story are incorporated into the design, adding meaning to every step.",
+    "price": 1459000,
+    "imgUrl": "https://i.imgur.com/JD24ZfT.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Court Legacy Next Nature",
+    "description": "Honouring a history rooted in tennis culture, the Nike Court Legacy Next Nature brings you a time-tested staple in a design that's made from at least 20% recycled materials by weight. Its pebbled leather and retro design let you blend sport and fashion. Do good by looking good.",
+    "price": 1029000,
+    "imgUrl": "https://i.imgur.com/t22OLjE.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Air Winflo 9",
+    "description": "Fast enough for your everyday runs, light enough to keep you in the flow. The Nike Air Winflo 9 has a secure fit that keeps your foot in place as the miles go by. We added plenty of foam through the midsole, giving you extra pep to every step. Lace up, lock in, win your goals.",
+    "price": 1449000,
+    "imgUrl": "https://i.imgur.com/6XLPosj.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Air Max 90 Futura",
+    "description": "The Nike Air Max 90 Futura re-imagines the icon of Air through your eyes—from design to testing to styling. Sawtooth edging around the toe and a partially floating Swoosh deliver skilfully crafted luxury. Plush padding around the ankle is mixed with trusted Air cushioning to bring you first-class comfort. It's playful, comfortable, sporty and whatever else you want it to be.",
+    "price": 2149000,
+    "imgUrl": "https://imgur.com/H3bv9gm.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Waffle One",
+    "description": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations. Its new TPU heel clip adds energy while a mixture of transparent mesh (let that sock game shine) and retro suedes give texture and depth. The updated Waffle outsole provides a level of support and traction you have to feel to believe.",
+    "price": 1429000,
+    "imgUrl": "https://imgur.com/N5BdXPt.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Waffle 1 SE",
+    "description": "Waffles aren't just for breakfast any more—you'll want to wear these kicks 'til dinnertime. We paired our now-iconic Waffle outsoles with fresh details, like a bold double Swoosh, tumbled leather and an exaggerated heel clip. Meanwhile, new moulded lugs give you even more support in every step.",
+    "price": 1729000,
+    "imgUrl": "https://imgur.com/MH0uIKD.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Revolution 6 Next Nature",
+    "description": "Made from at least 20% recycled material by weight, old materials find new beginnings.Now you can find yours.Set the pace at the start of your running journey with the plush feel of the Nike Revolution 6 Next Nature.We know comfort is key to a successful run, so we made sure your steps are cushioned and flexible for a soft ride.It's an evolution of a favourite, with a breathable design.",
+    "price": 799000,
+    "imgUrl": "https://imgur.com/uS5q6ga.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Run Swift 2",
+    "description": "The Nike Run Swift 2 is designed with shorter miles in mind.An updated yet familiar shape delivers breathable stability.A durable outsole keeps you supported no matter what your pace.",
+    "price": 999000,
+    "imgUrl": "https://imgur.com/oijsRaY.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Blazer Low '77 By You",
+    "description": "Praised for its classic simplicity and comfort, the original hoops look is now yours to customise. From a variety of materials, including a floral graphic on canvas, to fun-loving summertime colours, it lets you leave your mark. Then dive into the details: laces and a personalised inscription are just some of the options for tailoring your look.",
+    "price": 1819000,
+    "imgUrl": "https://imgur.com/gWHy2EY.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Rose Whisper",
+    "description": "Originally created for the hardwood, the Dunk later took to the streets—and as they say, the rest is history. More than 35 years after its debut, the silhouette still delivers bold, defiant style and remains a coveted look for crews across both sport and culture. Now, the college hoops original is refreshed with a softer palette. Rose Whisper and white colour blocking delivers seasonal style and a bright—but still subtle—touch to your outfit.",
+    "price": 1429000,
+    "imgUrl": "https://imgur.com/Jwk9xh6.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike SB Zoom Blazer Low Pro GT Premium",
+    "description": "A Grant Taylor signature shoe with workwear vibes, the Nike SB Zoom Blazer infuses a low-cut classic with hard-working materials, like durable leather and washed denim. The result is a skate-ready style that's ready to charge hard.",
+    "price": 1249000,
+    "imgUrl": "https://imgur.com/FbcZC5K.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Waffle Debut",
+    "description": "Retro running style gets modernised in the Nike Waffle Debut. Era-echoing suede and nylon pair with a modernised wedge-shaped midsole for a look that feels fresh, but classic. We kept our tried, true and trusted Waffle outsole on the bottom to add durable traction and a touch of iconic character to your every step. They're the perfect new addition to your sneaker collection.",
+    "price": 1129000,
+    "imgUrl": "https://imgur.com/omTizUW.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Retro GTS",
+    "description": "There's no need for frills when you're classic.The Nike Retro GTS is just that—your classically simple, always stylish canvas shoe.Nodding to the '96 original that gave a generation of skaters their no-care attitude, the new design gets updated with a comfort insole, embroidered logos and metal eyelets.Featuring canvas on the upper and tough rubber sole with heritage herringbone traction pattern it lets you turn heads without trying.",
+    "price": 799000,
+    "imgUrl": "https://imgur.com/GoCQxXW.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Dunk High Up",
+    "description": "There's never a wrong time to stand tall.Created for the hardwood but taken to the streets, the Nike Dunk High Up gives the '80s b-ball icon the perfect lift.With its classic high-top design, sport-like essence and elevated midsole, it stays true to hoops DNA while letting you channel your confidence with every step.",
+    "price": 1799000,
+    "imgUrl": "https://imgur.com/9buKGT5.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "name": "Nike Metcon 7 By You",
+    "description": "The Nike Metcon 7 By You shines the spotlight on teamwork with a brand-new colour palette and details that are inspired by a band of battle-hardened warriors.This design is the gold standard for weight training—even tougher and more stable than previous versions.React foam ups the comfort to keep you ready for high-intensity cardio.Plus, a tab locks down your laces, so you can forget about them coming untied when you're focused on helping your partner beat their PB.",
+    "price": 2279000,
+    "imgUrl": "https://imgur.com/b4DSGGA.jpg",
+    "CategoryId": 2,
+    "AuthorId": 1
+  }
+]
